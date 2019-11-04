@@ -2,9 +2,8 @@ package markup;
 
 import java.util.*;
 
-public class Emphasis extends AbstractMarkdown {
-    public Emphasis(List<Markdown> text) {
-        super(text, "emphasis");
+public class Emphasis extends AbstractMarkup {
+    public Emphasis(List<Markup> list) {
+        super(list, "emphasis");
     }
-
 }

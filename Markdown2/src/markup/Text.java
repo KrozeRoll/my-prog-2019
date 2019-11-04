@@ -1,6 +1,6 @@
 package markup;
 
-public class Text implements Markdown {
+public class Text implements Markup {
     private String string;
 
     public Text (String string) {

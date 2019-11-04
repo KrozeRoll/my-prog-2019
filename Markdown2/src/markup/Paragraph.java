@@ -2,8 +2,8 @@ package markup;
 
 import java.util.*;
 
-public class Paragraph extends AbstractMarkdown {
-    public Paragraph(List<Markdown> text) {
-        super(text, "paragraph");
+public class Paragraph extends AbstractMarkup {
+    public Paragraph(List<Markup> list) {
+        super(list, "paragraph");
     }
 }

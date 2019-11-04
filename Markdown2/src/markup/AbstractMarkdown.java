@@ -38,5 +38,5 @@ public abstract class AbstractMarkdown implements Markdown {
         }
         string.append(TEX.get(type).get(1));
         return string;
-    }
+    } // Затестит
 }
