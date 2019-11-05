@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -54,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TexTest">
+  <component name="RunManager" selected="Application.TexListTest">
     <configuration name="Markdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Markdown" />
       <module name="Markdown2" />
@@ -103,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TexTest" />
         <item itemvalue="Application.TexListTest" />
         <item itemvalue="Application.Markdown" />
+        <item itemvalue="Application.TexTest" />
         <item itemvalue="Application.MarkdownTest" />
       </list>
     </recent_temporary>
@@ -120,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572388532416</updated>
-      <workItem from="1572388537760" duration="23636000" />
+      <workItem from="1572388537760" duration="28682000" />
     </task>
     <servers />
   </component>

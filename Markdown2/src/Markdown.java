@@ -19,6 +19,8 @@ public class Markdown {
                 ))
         ));
 
-        System.out.println(paragraph.toMarkdown(new StringBuilder()).toString());
+        System.out.println(paragraph.toTex(new StringBuilder()).toString());
+
+
     }
 }

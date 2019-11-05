@@ -2,13 +2,15 @@ package markup;
 
 import java.util.*;
 
-public class ListItem extends AbstractMarkup {
-    public ListItem(List<Markup> list) {
-        super(list, "listItem");
+public class ListItem {
+    protected List<Container> list;
+
+    public ListItem(List<Container> list) {
+        this.list = list;
     }
 
     public StringBuilder toTex(StringBuilder string) {
-        for (Markup elem : list) {
+        for (Container elem : list) {
             string.append("\\item ");
             string = elem.toTex(string);
         }

@@ -2,8 +2,8 @@ package markup;
 
 import java.util.*;
 
-public class OrderedList extends AbstractMarkup {
-    public OrderedList(List<Markup> list) {
+public class OrderedList extends AbstractContainer  {
+    public OrderedList(List<ListItem> list) {
         super(list, "orderedList");
     }
 }
