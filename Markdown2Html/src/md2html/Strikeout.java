@@ -4,6 +4,6 @@ import java.util.*;
 
 public class Strikeout extends AbstractMarkup {
     public Strikeout(List<Markup> list) {
-        super(list, "STRIKEOUT");
+        super(list, HtmlTags.STRIKEOUT);
     }
 }
