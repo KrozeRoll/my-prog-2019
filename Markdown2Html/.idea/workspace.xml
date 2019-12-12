@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ccd9303-1f15-4cd9-96c1-db78634a87ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Markdown2Html" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TtPtDe1UIWFCxcb1HMcaZ7x8Kb" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Markdown2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Markdown2Html\src\Markdown2Html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Markdown2Html\src\Markdown2Html" />
+      <recent name="D:\Java\Markdown2Html\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Md2HtmlLinkTest">
+    <configuration name="Md2Html" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2Html" />
+      <module name="Markdown2Html" />
+      <option name="PROGRAM_PARAMETERS" value="input.txt output.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Markdown2Html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlLinkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlLinkTest" />
+      <module name="Markdown2Html" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlTest" />
+      <module name="Markdown2Html" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2Html" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2Html" />
+      <module name="Markdown2Html" />
+      <option name="PROGRAM_PARAMETERS" value="input.txt output.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlTest.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/Markdown2Html/Md2HtmlTest.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Md2Html" />
+      <item itemvalue="Application.Md2HtmlTest" />
+      <item itemvalue="Application.Md2HtmlLinkTest" />
+      <item itemvalue="JAR Application.Md2HtmlTest.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Md2HtmlLinkTest" />
+        <item itemvalue="Application.Md2Html" />
+        <item itemvalue="Application.Md2HtmlTest" />
+        <item itemvalue="Application.Md2Html" />
+        <item itemvalue="JAR Application.Md2HtmlTest.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ccd9303-1f15-4cd9-96c1-db78634a87ae" name="Default Changelist" comment="" />
+      <created>1574276630475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574276630475</updated>
+      <workItem from="1574276639416" duration="20002000" />
+      <workItem from="1574297183252" duration="2488000" />
+      <workItem from="1574332863572" duration="1670000" />
+      <workItem from="1574335012358" duration="2343000" />
+      <workItem from="1574715214472" duration="67000" />
+      <workItem from="1576088572374" duration="4886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
