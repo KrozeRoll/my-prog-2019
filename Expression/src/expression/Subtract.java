@@ -1,23 +1,24 @@
 package expression;
 
 public class Subtract extends Operation {
-    private static final int priority = 1;
-    private static final char sign = '-';
-    private static final boolean isComutative = false;
+    private static final Types type = Types.SUBTRACT;
 
-    Subtract(Operand left, Operand right) {
-        super(left, right, priority, isComutative);
+    public Subtract(Operand left, Operand right) {
+        super(left, right, type.getPriority(), type.isCommutative());
     }
 
     @Override
     public char getSign() {
-        return sign;
+        return type.getSign();
     }
 
     @Override
     public int getPriority() {
-        return priority;
+        return type.getPriority();
     }
 
-
+    @Override
+    public Types getType() {
+        return type;
+    }
 }

@@ -7,7 +7,7 @@ public abstract class Operation implements Operand {
     private int priority;
     private boolean isComutative;
 
-    public Operation(Operand left, Operand right, int priority, boolean isComutative) {
+    Operation(Operand left, Operand right, int priority, boolean isComutative) {
         this.left = left;
         this.right = right;
         this.priority = priority;
@@ -38,7 +38,7 @@ public abstract class Operation implements Operand {
             statement.append("(").append(left.toMiniString()).append(")");
         }
         statement.append(" ").append(getSign()).append(" ");
-        if (thisPriority < rightPriority || (thisPriority == rightPriority) && (isComutative)) {
+        if (thisPriority < rightPriority || (this.getType() == right.getType()) && (isComutative)) {
             statement.append(right.toMiniString());
         } else {
             statement.append("(").append(right.toMiniString()).append(")");
@@ -56,13 +56,6 @@ public abstract class Operation implements Operand {
     public int evaluate(int x) {
         int leftOperandAns = left.evaluate(x);
         int rightOperandAns = right.evaluate(x);
-        return evaluateLastOperation(leftOperandAns, rightOperandAns);
-    }
-
-    @Override
-    public int evaluate(int x, int y) {
-        int leftOperandAns = left.evaluate(x, y);
-        int rightOperandAns = right.evaluate(x, y);
         return evaluateLastOperation(leftOperandAns, rightOperandAns);
     }
 

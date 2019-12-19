@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Variable implements Operand {
     private String variableName;
-    private static final int priority = 10;
+    private static final Types type = Types.VARIABLE;
 
     public Variable(String variableName) {
         this.variableName = variableName;
@@ -22,7 +22,12 @@ public class Variable implements Operand {
 
     @Override
     public int getPriority() {
-        return priority;
+        return type.getPriority();
+    }
+
+    @Override
+    public Types getType() {
+        return type;
     }
 
     @Override
@@ -31,18 +36,6 @@ public class Variable implements Operand {
             return x;
         }
         throw new IllegalArgumentException("Variable 'x' expected");
-    }
-
-    @Override
-    public int evaluate(int x, int y) {
-        switch (variableName) {
-            case "x":
-                return x;
-            case "y":
-                return y;
-            default:
-                throw new IllegalArgumentException("Variable 'x' or 'y' expected");
-        }
     }
 
     @Override

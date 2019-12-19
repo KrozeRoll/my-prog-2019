@@ -14,6 +14,7 @@
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -51,7 +52,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TripleExpressionTest">
+    <configuration name="ExpressionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.ExpressionTest" />
+      <module name="Expression" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expression.Main" />
       <module name="Expression" />
@@ -65,9 +81,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripleExpressionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expression.TripleExpressionTest" />
+      <module name="Expression" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ExpressionTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TripleExpressionTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TripleExpressionTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExpressionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576703808545</updated>
-      <workItem from="1576703813204" duration="8444000" />
+      <workItem from="1576703813204" duration="15044000" />
     </task>
     <servers />
   </component>

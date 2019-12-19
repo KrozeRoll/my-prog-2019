@@ -18,6 +18,13 @@ public class Main {
         System.out.println(new Multiply(new Const(2), new Variable("x"))
                 .equals(new Multiply(new Variable("x"), new Const(2))));
 
-
+        Operation exp2 = new Add(
+                new Const(3),
+                new Add(
+                        new Const(2),
+                        new Const(5)
+                )
+        );
+        System.out.println(exp2.toMiniString());
     }
 }

@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Const implements Operand {
     private final int value;
-    private static final int priority = 10;
+    private static final Types type = Types.VARIABLE;
 
     public Const(int value) {
         this.value = value;
@@ -22,16 +22,16 @@ public class Const implements Operand {
 
     @Override
     public int getPriority() {
-        return priority;
+        return type.getPriority();
+    }
+
+    @Override
+    public Types getType() {
+        return type;
     }
 
     @Override
     public int evaluate(int x) {
-        return value;
-    }
-
-    @Override
-    public int evaluate(int x, int y) {
         return value;
     }
 

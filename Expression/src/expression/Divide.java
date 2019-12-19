@@ -1,23 +1,24 @@
 package expression;
 
 public class Divide extends Operation {
-    private static final int priority = 2;
-    private static final char sign = '/';
-    private static final boolean isComutative = false;
+    private static final Types type = Types.DIVIDE;
 
     public Divide(Operand left, Operand right) {
-        super(left, right, priority, isComutative);
+        super(left, right, type.getPriority(), type.isCommutative());
     }
 
     @Override
     public char getSign() {
-        return sign;
+        return type.getSign();
     }
 
     @Override
     public int getPriority() {
-        return priority;
+        return type.getPriority();
     }
 
-
+    @Override
+    public Types getType() {
+        return type;
+    }
 }
