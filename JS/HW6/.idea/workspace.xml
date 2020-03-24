@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d5a6d1a-6a2e-4339-b37b-5bb9b9987d26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXm0eOEPc4ClCkLDAXeobojUCE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/base" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\HW6\src\base" />
+      <recent name="D:\Java\HW6\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FunctionalCubeTest">
+    <configuration name="FunctionalCubeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jstest.functional.FunctionalCubeTest" />
+      <module name="HW6" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea --module-path=graal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jstest.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalMiniTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jstest.functional.FunctionalMiniTest" />
+      <module name="HW6" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea --module-path=graal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jstest.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalPieSinCosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jstest.functional.FunctionalPieSinCosTest" />
+      <module name="HW6" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea --module-path=graal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jstest.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalPieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jstest.functional.FunctionalPieTest" />
+      <module name="HW6" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea --module-path=graal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jstest.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="functionalExpression.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/functionalExpression.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FunctionalPieSinCosTest" />
+      <item itemvalue="Application.FunctionalMiniTest" />
+      <item itemvalue="Application.FunctionalPieTest" />
+      <item itemvalue="Application.FunctionalCubeTest" />
+      <item itemvalue="Node.js.functionalExpression.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionalCubeTest" />
+        <item itemvalue="Node.js.functionalExpression.js" />
+        <item itemvalue="Application.FunctionalPieSinCosTest" />
+        <item itemvalue="Application.FunctionalPieTest" />
+        <item itemvalue="Application.FunctionalMiniTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5a6d1a-6a2e-4339-b37b-5bb9b9987d26" name="Default Changelist" comment="" />
+      <created>1584993590667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584993590667</updated>
+      <workItem from="1584993594608" duration="10086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="181" key="#Project_Structure" timestamp="1584993602554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584993602554" />
+    <state x="529" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585000317437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585000317437" />
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1585051742439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585051742439" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1585051742439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585051742439" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1585051742439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585051742439" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1585051742439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585051742439" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1584997090233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090233" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1584997090232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090232" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1584997090232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090232" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1584997090232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090232" />
+    <state width="914" height="347" key="GridCell.Tab.2.bottom" timestamp="1584997090234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090234" />
+    <state width="914" height="347" key="GridCell.Tab.2.center" timestamp="1584997090233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090233" />
+    <state width="914" height="347" key="GridCell.Tab.2.left" timestamp="1584997090233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090233" />
+    <state width="914" height="347" key="GridCell.Tab.2.right" timestamp="1584997090234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090234" />
+    <state width="914" height="347" key="GridCell.Tab.3.bottom" timestamp="1584997090235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090235" />
+    <state width="914" height="347" key="GridCell.Tab.3.center" timestamp="1584997090234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090234" />
+    <state width="914" height="347" key="GridCell.Tab.3.left" timestamp="1584997090234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090234" />
+    <state width="914" height="347" key="GridCell.Tab.3.right" timestamp="1584997090235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584997090235" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/functionalExpression.js</url>
+          <line>67</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
